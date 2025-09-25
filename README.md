@@ -1,4 +1,4 @@
-<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/7a95b321-4989-48d6-9587-7c7004ab065c" /># Concurrent Ticket Booking System with Seat Locking and Confirmation
+# Concurrent Ticket Booking System with Seat Locking and Confirmation
 
 This project is a simple **ticket booking system** built with **Node.js** and **Express.js**, featuring a front-end UI to view, lock, and confirm seat bookings in real-time. It simulates a seat reservation system that handles concurrency by implementing seat locking and automatic lock expiration.
 
@@ -42,3 +42,5 @@ Start the server by running:
 node app.js
 
 ## Screenshot
+
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/7a95b321-4989-48d6-9587-7c7004ab065c" />
