@@ -1,3 +1,36 @@
+# 🎴 Playing Card REST API with Express.js + Frontend
+
+This project is a **Node.js + Express.js REST API** to manage a collection of playing cards, combined with a **frontend (HTML + JavaScript)** in a **pink & light purple theme** 🎨 so you can test the API directly in your browser.
+
+---
+
+## 📌 Features
+- RESTful API with **GET, POST, DELETE**
+- In-memory card collection (no database required)
+- Simple **frontend UI** to test API
+- Beautiful **pink + purple theme**
+
+---
+
+## 📂 Project Structure
+card-api/
+├── server.js # Express.js backend
+├── package.json # Project config
+├── public/
+│ └── index.html # Frontend (pink + purple theme)
+
+
+---
+
+## 🚀 Setup & Run
+
+1. **Initialize project**  
+   ```bash
+   mkdir card-api
+   cd card-api
+   npm init -y
+   npm install express
+
 # Concurrent Ticket Booking System with Seat Locking and Confirmation
 
 This project is a simple **ticket booking system** built with **Node.js** and **Express.js**, featuring a front-end UI to view, lock, and confirm seat bookings in real-time. It simulates a seat reservation system that handles concurrency by implementing seat locking and automatic lock expiration.
