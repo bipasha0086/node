@@ -30,21 +30,18 @@ card-api/
    cd card-api
    npm init -y
    npm install express
-## Screenshot
 
-## Screenshots
 
-### Seat Status View  
-![Seat Status](screenshots/Screenshot 2025-09-25 213019.png)
+# Screenshots
 
-### Lock Seat Action  
-![Lock Seat](screenshots/Screenshot 2025-09-25 213035.png)
+![Screenshot 1](Screenshot%202025-09-25%20213019.png)
 
-### Confirm Seat Booking  
-![Confirm Booking](screenshots/Screenshot 2025-09-25 213052.png)
+![Screenshot 2](Screenshot%202025-09-25%20213035.png)
 
-### Booking Confirmation Message  
-![Booking Confirmed](screenshots/Screenshot 2025-09-25 213108.png)
+![Screenshot 3](Screenshot%202025-09-25%20213052.png)
+
+![Screenshot 4](Screenshot%202025-09-25%20213108.png)
+
 
 # Concurrent Ticket Booking System with Seat Locking and Confirmation
 
