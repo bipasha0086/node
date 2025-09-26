@@ -19,6 +19,9 @@ employee-management/
 ├── employee-management.js # Main application file
 └── README.md # Documentation
 
+## 📂 Project Structure
+
+![Project Structure](Screenshot%202025-09-25%20110328.png)
 
 
 
