@@ -1,3 +1,27 @@
+# CLI Employee Management System (Node.js)
+
+A simple **Command Line Interface (CLI)** application built with Node.js that manages employees **in memory** using arrays.  
+You can **add, list, and remove employees** interactively from the terminal.
+
+---
+
+## 📌 Features
+- Add a new employee (Name + ID).
+- List all employees.
+- Remove an employee by ID.
+- Stores data **only in memory** (no database, no file).
+
+---
+
+## 📂 Project Structure
+employee-management/
+│
+├── employee-management.js # Main application file
+└── README.md # Documentation
+
+
+
+
 # 🎴 Playing Card REST API with Express.js + Frontend
 
 This project is a **Node.js + Express.js REST API** to manage a collection of playing cards, combined with a **frontend (HTML + JavaScript)** in a **pink & light purple theme** 🎨 so you can test the API directly in your browser.
